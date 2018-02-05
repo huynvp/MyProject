@@ -1,0 +1,27 @@
+24 - 1 - 2018:
+- Build MVC project.
+- Code From Login
+
+
+25 - 1 - 2018:
+- Controller User: Login
+- Controller Index: Index
+- Controller User: Login
+
+26 - 1 - 2018:
+- Fix GUI (User)
+
+27 - 1 - 2018:
+- Build GUI admin
+- Fix Navbar (dropdown. reponsive)
+
+28 - 1 - 2018:
+- Fix model in libs
+
+29 - 1 - 2018:
+- Add, Update Teacher.
+- Fix permission (teacher and admin)
+
+30 - 1 - 2018:
+- Add columns 'STATUS' all table in Database.
+- Update Login (USER AND ADMIN) with STATUS columns.
