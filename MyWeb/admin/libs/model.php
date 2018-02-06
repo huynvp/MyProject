@@ -37,7 +37,7 @@
 
 		public function Update($table, $data, $where) {
 			$sql = "UPDATE " . $table . " SET " . $data . " WHERE " . $where;
-			return $this->_conn->query($sql);
+			$this->_conn->query($sql);
 		}
 
 		public function Delete($table, $where) {
